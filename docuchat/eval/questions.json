@@ -1,0 +1,6 @@
+[
+  {"question": "How many days do I have to return a purchase?", "expected_page": 1, "expected_phrase": "30 days"},
+  {"question": "Where is the office located?", "expected_page": 2, "expected_phrase": "Gurgaon"},
+  {"question": "How long does shipping take?", "expected_page": 3, "expected_phrase": "5 business days"},
+  {"question": "Who do I email for support?", "expected_page": 3, "expected_phrase": "support@example.com"}
+]
